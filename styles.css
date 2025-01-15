@@ -8,7 +8,7 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box; /* Adicionado para melhor controle de espaçamentos */
+    box-sizing: border-box; 
     background-color: var(--color-dark);
     color: var(--color-white);
     font-family:'Trebuchet MS', sans-serif;
