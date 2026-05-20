@@ -3,7 +3,7 @@
 Aplicação web desenvolvida com HTML, CSS e JavaScript para exibição dinâmica de horário em tempo real.
 
 ## 🚀 Deploy
-🔗 https://SEU-LINK-AQUI.vercel.app
+🔗 https://minimal-clock-pi.vercel.app/
 
 ---
 
